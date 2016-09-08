@@ -4,6 +4,6 @@
 public class ExerciseRunner {
     public static void main (String[] args){
         new EasyExercise().run();
-
+        new VerticalLine().run(8);
     }
 }
